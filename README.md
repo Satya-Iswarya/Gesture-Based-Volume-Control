@@ -28,6 +28,7 @@ PyCaw - For controlling system volume.
 1.Clone the repository:
 
   git clone https://github.com/Satya-Iswarya/Gesture-Based-Volume-Control.git
+  
   cd gesture-volume-control
   
 2.Install dependencies:
