@@ -1,5 +1,6 @@
 # Gesture-Based-Volume-Control
 Gesture-Based Volume Control 🎛️🖐️
+
 A computer vision-based project that allows users to control system volume using hand gestures. This project uses OpenCV, Mediapipe, and PyCaw to detect hand gestures and adjust the volume accordingly.
 
 ✨ Features
@@ -16,15 +17,12 @@ PyCaw - For controlling system volume.
 
 🔧 Installation
 1.Clone the repository:
-git clone https://github.com/Satya-Iswarya/Gesture-Based-Volume-Control.git
-cd gesture-volume-control
+  git clone https://github.com/Satya-Iswarya/Gesture-Based-Volume-Control.git
+  cd gesture-volume-control
 2.Install dependencies:
-
+  pip install opencv-python mediapipe pycaw numpy  
 3.Run the script:
-
-
-
-
+  python volume_control.py  
 
 📌 How It Works
 The webcam captures the live feed.
